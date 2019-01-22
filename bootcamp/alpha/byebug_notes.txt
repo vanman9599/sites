@@ -1,0 +1,11 @@
+'debugger' or 'byebug' - to set a breakoint where the code stop
+'step' - goes deeper into the function on teh current line if possible
+'next' - advances to next line
+'byebug filename.rb' - start the file in debug mode
+'p' - to print local variables, you can run any ruby code actually
+'display' - to automatically hav variables printed when code stops
+'where' - to shwo call stack, also 'up' and 'down'
+b <linenumber>' - to set a breakpoint so the code will always stop
+'finish'
+
+
